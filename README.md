@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Aykhan Mikayilzada</h1>
 <h3 align="center">As a professional specialized in frontend development, I create modern and user-centric web applications using React, TypeScript, and Next.js.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aykhanmikayilzada&label=Profile%20views&color=0e75b6&style=flat" alt="aykhanmikayilzada" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aykhanmikayilzada" alt="aykhanmikayilzada" /></a> </p>
+
 - 👨‍💻 All of my projects are available at [https://github.com/AykhanMikayilzada](https://github.com/AykhanMikayilzada)
 
 <h3 align="left">Connect with me:</h3>
