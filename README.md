@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning React Native **Expo XCode Android Studio**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AykhanMikayilzada](https://github.com/AykhanMikayilzada)
+- 👨‍💻 All of my projects are available at https://github.com/AykhanMikayilzada?tab=repositories
 
 - 📫 You can reach me with my social media accounts **§**
 
