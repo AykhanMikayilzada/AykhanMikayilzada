@@ -1,5 +1,4 @@
 
-preview
 <h1 align="center">Hi 👋, I'm Aykhan Mikayilzada</h1>
 <h3 align="center">As a professional specialized in frontend development, I create modern and user-centric web applications using React, TypeScript, and Next.js.</h3>
 
