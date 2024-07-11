@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aykhan Mikayilzada</h1>
 <h3 align="center">As a professional specialized in frontend development, I create modern and user-centric web applications using React, TypeScript, and Next.js.</h3>
 
+- 🌱 I’m currently learning React Native **Expo XCode Android Studio**
+
 - 👨‍💻 All of my projects are available at [https://github.com/AykhanMikayilzada](https://github.com/AykhanMikayilzada)
+
+- 📫 You can reach me with my social media accounts **§**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
